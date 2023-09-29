@@ -37,4 +37,4 @@ private void toolTipController1_GetActiveObjectInfo(object sender, DevExpress.Ut
 
 ## See Also
 
-* [WinForms LixtBoxControl - Display item tooltips](https://github.com/DevExpress-Examples/winforms-listbox-show-item-tooltips)
+* [WinForms ListBoxControl - Display item tooltips](https://github.com/DevExpress-Examples/winforms-listbox-show-item-tooltips)
